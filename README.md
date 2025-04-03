@@ -1,4 +1,4 @@
-💫 **About Me:**
+# 💫 **About Me:**
 
 🎯 **My Goal:**
 Seeking a "Duales Studium" (Cooperative Education Program) in Informatics/Computer Science in NRW, Germany.
