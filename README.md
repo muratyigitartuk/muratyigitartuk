@@ -1,9 +1,11 @@
-# 💫 About Me:
-- 🔭 **Currently working on**: AI-driven content creation and automation.
-- 👯 **Looking to collaborate on**: Tech, automation, and monetization strategies.   
-- 🌱 **Currently learning**: Advanced informatics and AI applications.
-- 💬 **Ask me about**: Content monetization, AI tools, system optimization.
-- ⚡ **Fun fact**: I optimize everything—except my sleep schedule.
+💫 About Me:
+
+🎯 Goal: Seeking a "Duales Studium" (Cooperative Education Program) in Informatics/Computer Science in NRW, Germany
+🔭 Currently exploring: AI applications and automation solutions to gain practical programming experience.
+👯 Open to connecting & small projects on: Tech, automation, software development, and algorithms.
+🌱 Currently learning: Deepening my knowledge of computer science fundamentals (data structures, algorithms) and AI concepts in preparation for my studies.
+💬 Topics I'm passionate about: AI tools, system optimization, efficient software, problem-solving through code.
+⚡ Fun fact: I optimize everything—except my sleep schedule. 😉
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muratyigitartuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muratyigitartuk0@gmail.com) 
