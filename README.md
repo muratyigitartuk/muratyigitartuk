@@ -18,7 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muratyigitartuk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes that inspires me
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
