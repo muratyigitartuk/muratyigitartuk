@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🔭 **Currently working on**: AI-driven content creation and automation.
-- 👯 **Looking to collaborate on**: Tech, automation, and monetization strategies.  
-- 🤝 **Looking for help with**: Expanding my social media presence.  
+- 👯 **Looking to collaborate on**: Tech, automation, and monetization strategies.   
 - 🌱 **Currently learning**: Advanced informatics and AI applications.
 - 💬 **Ask me about**: Content monetization, AI tools, system optimization.
 - ⚡ **Fun fact**: I optimize everything—except my sleep schedule.
