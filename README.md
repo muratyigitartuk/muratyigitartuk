@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muratyigitartuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muratyigitartuk0@gmail.com) 
-[![website](https://img.shields.io/badge/Website-000000?logo=Google-Chrome&logoColor=white)](https://www.muratyigitartuk.com)
+[![website](https://img.shields.io/badge/Website-800080?logo=Google-Chrome&logoColor=white)](https://www.muratyigitartuk.com)
+
 
 
 # 💻 Tech Stack:
