@@ -1,10 +1,15 @@
 # 💫 About Me:
 
 🎯 Goal: Seeking a "Duales Studium" (Cooperative Education Program) in Informatics/Computer Science in NRW, Germany
+
 🔭 Currently exploring: AI applications and automation solutions to gain practical programming experience.
+
 👯 Open to connecting & small projects on: Tech, automation, software development, and algorithms.
+
 🌱 Currently learning: Deepening my knowledge of computer science fundamentals (data structures, algorithms) and AI concepts in preparation for my studies.
+
 💬 Topics I'm passionate about: AI tools, system optimization, efficient software, problem-solving through code.
+
 ⚡ Fun fact: I optimize everything—except my sleep schedule. 😉
 
 ## 🌐 Socials:
