@@ -1,7 +1,7 @@
 💫 **About Me:**
 
 🎯 **My Goal:**
-Seeking a "Duales Studium" (Cooperative Education Program) in Informatics/Computer Science in NRW, Germany (Starting [Start Year]).
+Seeking a "Duales Studium" (Cooperative Education Program) in Informatics/Computer Science in NRW, Germany.
 
 🔭 **Current Focus & Exploration:**
 Exploring AI applications and automation solutions to gain practical programming experience.
