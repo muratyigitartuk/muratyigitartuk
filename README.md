@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently preparing for a **Duales Studium** or **Ausbildung** in Informatics in Germany. 👯 I’m looking to collaborate on tech, automation, and monetization strategies. 🤝 I’m interested in networking with professionals in the IT and education sectors. 🌱 I’m currently learning advanced informatics, software development, and AI applications. 💬 Ask me about content automation, AI tools, and system optimization. ⚡ Fun fact: I optimize everything—except my sleep schedule.
+🔭 I’m currently working on  
+**AI-driven content creation and automation projects.**
+
+👯 I’m looking to collaborate on  
+**Tech, automation, and monetization strategies.**
+
+🤝 I’m looking for help with  
+**Expanding my reach on social platforms.**
+
+🌱 I’m currently learning  
+**Advanced informatics and AI applications.**
+
+💬 Ask me about  
+**Content monetization, AI tools, and system optimization.**
+
+⚡ Fun fact  
+**I optimize everything—except my sleep schedule.**
 
 
 ## 🌐 Socials:
